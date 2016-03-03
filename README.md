@@ -1,5 +1,5 @@
-This code has been written by Yang Yang, the poster.
-This is a example code to translate the codes writtrn by perl to the codes written by python.
+This code has been written by Yang Yang.
+This is a example code(Perl) to translate the codes written by Perl into the codes written by Python.
 
 Here is an example,
 If the code of perl called test.pl looks like:
